@@ -1,5 +1,10 @@
 # Biang Biang Noodles with Cumin Beef
 
+## Table of Contents
+  1. [Ingredients](#ingredients)
+  2. [Instructions](#instructions)
+  3. [Putting it Together](#putting-it-together)
+
 ## Ingredients
 
 - ### Noodles (3 servings)
