@@ -48,7 +48,9 @@
   1. Mix them together.
 
 ## Putting it Together
-1. Put the cooked noodles in a bowl.
-2. Pour over a few spoons of the noodle sauce
-3. You can add in blanched vegetables and aromatics too
-   1. Bok choy and green onions are a good choice
+1. Prepare the dough and leave it in the fridge.
+2. Prepare the cumin beef
+3. Take the dough out and start "bianging" it
+4. Cook it in the pot of water
+5. Put the noodles in the bowl, then the noodles, then any blanched vegetables or aromatics (Bok choy and green onions are good)
+6. Pour over a few spoon fulls of the sauce
