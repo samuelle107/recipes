@@ -1,7 +1,6 @@
 # Biang Biang Noodles with Cumin Beef
 
 ## Ingredients
----
 
 ### Noodles
 - 400g of AP Flour
@@ -25,7 +24,7 @@
 - Grated ginger
 
 ## Instructions
----
+
 ### Cumin Beef
 1. Cut the beef into thin slices.
 2. Throw in all the spices and liquids and let it marinate for 30 minutes.
