@@ -2,12 +2,12 @@
 
 ## Ingredients
 
-### Noodles
+### Noodles (3 servings)
 - 400g of AP Flour
 - 200g of warm water
 - 8g of salt
 
-### Cumin Beef
+### Cumin Beef (3 servings)
 - 450g of beef
 - 2tsp of cumin seeds
 - 2tbsp of soy sauce
@@ -16,7 +16,7 @@
 - 1 onion cut into thin wedges
 - 2 cloves of garlic thinly sliced
 
-### Sauce
+### Sauce (? servings)
 - 60g soy sauce
 - 20g oyster sauce
 - 20g chinkiang vinegar
