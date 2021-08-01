@@ -1,5 +1,7 @@
 # Biang Biang Noodles with Cumin Beef
 
+![biang biang noodles](https://i.redd.it/j49ueuukos541.jpg)
+
 ## Table of Contents
   1. [Ingredients](#ingredients)
   2. [Instructions](#instructions)
@@ -21,7 +23,7 @@
   - 1 onion cut into thin wedges
   - 2 cloves of garlic thinly sliced
 
-- ### Sauce (? servings)
+- ### Sauce (3 servings)
   - 60g soy sauce
   - 20g oyster sauce
   - 20g chinkiang vinegar
