@@ -5,6 +5,11 @@ This is a message to everyone who share their recipes and makes people read unne
 ```
 # <Recipe Food Name>
 
+## Table of Contents
+  1. [Ingredients](#ingredients)
+  2. [Instructions](#instructions)
+  3. [Putting it Together](#putting-it-together)
+
 ## Ingredients
 
 - ### <Component 1 of Recipe>
