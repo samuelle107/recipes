@@ -1,6 +1,6 @@
 # Biang Biang Noodles with Cumin Beef
 
-![biang biang noodles](https://i.redd.it/j49ueuukos541.jpg)
+![biang biang noodles](/recipes/biang-biang-noodles/image.jpg)
 
 ## Table of Contents
   1. [Ingredients](#ingredients)
