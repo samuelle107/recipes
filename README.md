@@ -4,6 +4,8 @@ This is a message to everyone who share their recipes and makes people read unne
 ## Formatting
 ```
 # <Recipe Food Name>
+![Food](Relative url link to food)
+Ex: ![biang biang noodles](/recipes/biang-biang-noodles/image.jpg)
 
 ## Table of Contents
   1. [Ingredients](#ingredients)
